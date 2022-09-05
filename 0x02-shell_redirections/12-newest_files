@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pAt | grep -v / | tail
+ls -pAt | grep -v / | head 
