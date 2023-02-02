@@ -1,7 +1,7 @@
 # alx-system_engineering-devops
 Exercises from the System Engineering and DevOps section of the ALX software engineering program.
 
-Sections:
+Projects:
 - [0x00. Shell Basics](./0x00-shell_basics/)
 - [0x01. Shell Permissions](./0x01-shell_permissions/)
 - [0x02. Shell Redirections](./0x01-shell_permissions/)
